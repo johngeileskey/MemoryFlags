@@ -10,8 +10,8 @@ body {
   background: #01040e;
 }
 .memory-game {
-  width: 1400px;
-  height: 1100px;
+  width: 1050px; /* 1400px; */
+  height: 825px; /*1100px; */
   margin: auto; /*to center the game inn the display */
   display: flex;
   flex-wrap: wrap;
